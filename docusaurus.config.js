@@ -3,12 +3,12 @@ module.exports = {
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  favicon: 'img/logo.svg',
+  organizationName: 'AmossXu', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Amos Xu',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -21,7 +21,7 @@ module.exports = {
         //   position: 'left',
         // },
         {
-          to: 'blog',
+          to: '/',
           label: 'Blog',
           position: 'right'
         },
@@ -62,16 +62,13 @@ module.exports = {
           title: 'Social',
           items: [{
               label: 'Blog',
-              to: 'blog',
+              to: '/',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/AmossXu',
             },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+
           ],
         },
       ],
