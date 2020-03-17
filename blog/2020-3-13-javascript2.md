@@ -1,11 +1,11 @@
 ---
-id: welcome
-title:node-express通过jwt实现带token验证的登录
+id: javascript
+title: Javascript常见面试
 author: Amos Xu
-author_title: Front End Engineer
+author_title: Front End Engineer|前端开发
 author_url: https://github.com/AmossXu
 author_image_url: https://avatars.githubusercontent.com/AmossXu
-tags: [Node.js, Express ,Token]
+tags: [javascript, 面试]
 ---
 
 # node-express通过jwt实现带token验证的登录
