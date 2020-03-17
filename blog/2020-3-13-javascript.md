@@ -9,7 +9,7 @@ tags: [javascript, 面试]
 ---
 
 ### 数据类型
-####usbno
+#### usbno
 - undefined
 - string
 - boolean
