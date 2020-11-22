@@ -1,5 +1,5 @@
 ---
-id: javascriptUtils
+id: javascriptutils
 title: JS常用代码工具
 author: Amos Xu
 author_title: Front End Engineer|前端开发
